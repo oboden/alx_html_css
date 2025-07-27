@@ -1,6 +1,7 @@
 body {
   display: flex;
   flex-direction: column;
+  background-color: gray;
 }
 main {
   display:flex;
@@ -11,6 +12,7 @@ main {
 article {
   flex: 2;
   overflow-y: auto;
+  background-color: gray;
 }
 
 aside {
